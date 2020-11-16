@@ -1,0 +1,38 @@
+{
+  "name": "smart-home-frontend",
+  "version": "0.0.1",
+  "description": "Demo for devices that work with the Google Assistant",
+  "scripts": {
+    "build": "npm run build:polymer",
+    "build:polymer": "polymer build",
+    "clean": "rm -rf ./build/",
+    "create-firebase-config": "firebase setup:web > ./src/firebase-setup.js",
+    "lint": "eslint ./src",
+    "start": "polymer serve",
+    "serve": "npm run start",
+    "test": "touch src/firebase-setup.js && npm run lint && npm run build"
+  },
+  "dependencies": {
+    "@polymer/app-layout": "^3.0.1",
+    "@polymer/iron-icon": "^3.0.1",
+    "@polymer/iron-icons": "^3.0.1",
+    "@polymer/iron-list": "^3.0.1",
+    "@polymer/paper-button": "^3.0.1",
+    "@polymer/paper-dialog": "^3.0.1",
+    "@polymer/paper-icon-button": "^3.0.1",
+    "@polymer/paper-input": "^3.0.1",
+    "@polymer/paper-slider": "^3.0.1",
+    "@polymer/paper-toast": "^3.0.1",
+    "@polymer/paper-toggle-button": "^3.0.1",
+    "@polymer/paper-tooltip": "^3.0.1",
+    "@polymer/polymer": "^3.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-polymer": "^0.4.0",
+    "firebase-tools": "^6.0.0",
+    "polymer-cli": "^1.8.1"
+  },
+  "author": "Google"
+}
