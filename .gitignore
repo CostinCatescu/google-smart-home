@@ -3,6 +3,6 @@ dist/
 .vscode/
 
 # service account keys
-src/*.json
+#src/*.json
 .firebaserc
 .env

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smart-home-24c49",
+  "private_key_id": "807e8e3a2b5016b43c01a4d7d414709198a7fe6e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCyaJu4lqoyim5p\n10rykiUbIdBHdh0tvuCRHJ7ILnVfyZWjszYPgQ/37q0cfH4yKmXB+dZ22+FnAav1\nXcj0pOvlm1Snm+rXrYwz3YX6iQxwDrKCd1ZxNyxojTzZt5dM5M84AGKwQ5ksOJHa\n5c+Ixt+HaQ7YuDwi8232opYcMA3HwiqIyVqCGwYgBCrnCS9JPLihMXngjO5gJueT\nIGTmvU2FTDOS++oEKP5ljX1MERdypVw54SZOx+7/vJWA3/NEc8ASuzQ3Nvv9Cjz0\n1LfaNAm+w7/vHumF+voR53mvpchixtIyOW3PhRZ8uXHv2s0//FkRRCfTkiGQYLSa\n5INQ8kmBAgMBAAECggEAVqJur/HV3yoS2Om3lth6FVVTr0f/flXY9g6IWlwZGjUp\nKa+eWmQJbZOk05burwygklPwnZJDwAHzT3jF22r0tHA76RJRNX+sfAkgBNulQwsY\nCzvJKbwpn/Gp8W1yFuBrcd3aDo8c4/jqdvouz9QG+tn84CeC6FP+e4xTSYfaQTxK\nPgLz/dYwuzM7DhdRZXw7VR6hm8hCTlo5cIp86y6wFFn7BvE6+7UJNy6TxUYtDUbo\ns2KAd6HbHlNDFROEzKcpn+xuQWuyllgxq1Y6P+URHlYdrtsfTeLXqs8a93UdJo2m\nR/dVxAStSP+rkFdLy8A2Rm9pix1pA6MK7MsUD/u96wKBgQD2iqi07NDuWT/ILMY6\nj0E02QmTDHgHYnI4d0K3YljCfSFn30CGniQF1zTzUs+Ud8DQd9JOHax9jaH99E5N\nv7Zo9T8Hjlj3SP7jn+YlhDV87IWjPTZtX2Flyygyp59F//sVNlzeRNPpHn70yCPO\ni3TKWHS6IA9GfpOaIuy3IaFqywKBgQC5QMyz0J0C1qaKOLtv08NJsUVI9ZYiZVyu\n3ILT7zrWFUx4KBBd7tuUnkI/xJNOPTqYEjto/B886oqWQmKhM5MkhFlIGnRf+sQU\n/RtpsSjoAZF8NP4cO4/MEKsc1+3TOEveyc5dcK6RiDHq2UDuKoZLW/rKXoV7KcWu\npIAKvlFXYwKBgGfHWFrIcO5T7VBS4KKX2MfpMGmQzxm0rAXu1cuh/2DnEV/LDztb\naCh5PZXLXwvNGQHn3kP5o7k6HF1tMGTz9VHbIkwI9JQrSvgAP/282FMcsOhVBQsn\nIjWaPfKMsrPhnAyC1LbPXDB+IMzjTodMFr5yW7hZdHSlJXa1itVPt8XfAoGAMN+h\nocblxXvv0AOLn8MUgHqeNtNj2os3WoKemV9B/Hz+Aa1ANCfyElF2VPB9lGSe8sPM\nnLP3YdDW4zF8Z979cOLh0x33meLEnGzyMH4mtp7DTSuF5tjn5QR4wFFPUyxFB+/h\n29EAnTB7SuQqNytM5tDLZ1xshsPMfXi0tyDiwNUCgYBBYjJYkwHkLfdFuj/69zQE\nAblfXLDNFZjBy8XSbfZ4xtGl5sb9p5cSe43o7h9JiTIv/ZEgq+iZWj1QUSA4Z/LC\nwZ2oGYENoExeXErpNWgyzhsX8nL6+05PwTWlJ+t2SDYuX6pErR8B5JYPl0Prbg/s\n+fuqgtQvnX3EMcV7H9IDfA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "costin@smart-home-24c49.iam.gserviceaccount.com",
+  "client_id": "103244730815647232923",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/costin%40smart-home-24c49.iam.gserviceaccount.com"
+}
